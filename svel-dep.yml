@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: con-svel
-        image: 324547056370.dkr.ecr.ap-northeast-2.amazonaws.com/svel:1
+        image: 324547056370.dkr.ecr.ap-northeast-2.amazonaws.com/svel:2
 ---
 apiVersion: v1
 kind: Service
